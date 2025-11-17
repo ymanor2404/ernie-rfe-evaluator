@@ -23,7 +23,7 @@ Each criterion is scored 1-5 with detailed justifications, culminating in a tota
 ### Method 1: Direct Clone (Recommended)
 ```bash
 # Clone this repository into your project
-git clone https://github.com/YOUR_USERNAME/ernie-rfe-evaluator.git
+git clone https://github.com/ymanor2404/ernie-rfe-evaluator.git
 
 # Copy the .claude directory to your project root
 cp -r ernie-rfe-evaluator/.claude /path/to/your/project/
@@ -37,7 +37,7 @@ cp -r ernie-rfe-evaluator/.claude /path/to/your/project/
 ### Method 3: Git Submodule (For Version Control)
 ```bash
 # Add as a submodule to your project
-git submodule add https://github.com/YOUR_USERNAME/ernie-rfe-evaluator.git .claude/skills/ernie-rfe-evaluator
+git submodule add https://github.com/ymanor2404/ernie-rfe-evaluator.git .claude/skills/ernie-rfe-evaluator
 ```
 
 ## Usage
@@ -152,7 +152,7 @@ Created for the Claude Code community to facilitate objective RFE evaluation.
 ## Support
 
 If you encounter issues or have questions:
-1. Check the [Issues](https://github.com/YOUR_USERNAME/ernie-rfe-evaluator/issues) page
+1. Check the [Issues](https://github.com/ymanor2404/ernie-rfe-evaluator/issues) page
 2. Open a new issue with details about your problem
 3. Include example inputs and expected vs. actual outputs
 
